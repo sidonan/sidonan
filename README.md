@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm sidonan 👋
+# Hi, I'm Niyozmo 👋
 
 ### Software Developer & Tech Enthusiast
 
@@ -19,7 +19,7 @@
 - 🌱 **Learning & exploring:** Modern architectures, frameworks, and cloud technologies
 - 💡 **Interests:** Full-stack development, software craftsmanship, and automation
 - 🤝 **Collaborations:** Open to collaborating on open-source initiatives and creative ideas
-- 📫 **Reach me at:** [niyozmo2007@gmail.com](mailto:niyozmo2007@gmail.com)
+- 📫 **Reach me at:** [niyozmo.saidmusalamova@gmail.com](mailto:niyozmo.saidmusalamova@gmail.com)
 
 <br>
 
